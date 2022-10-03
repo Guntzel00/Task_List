@@ -1,9 +1,10 @@
 <h1 align="center">
-    ![Screen Shot 2022-10-03 at 1 31 04 PM](https://user-images.githubusercontent.com/50676988/193635860-20d922e7-fb07-4ec8-9558-9fc4419f90d7.png)
+    <img src="https://user-images.githubusercontent.com/50676988/193635860-20d922e7-fb07-4ec8-9558-9fc4419f90d7.png"
+    
 </h1>
 
 <h1>
-![Screen Shot 2022-10-03 at 1 47 29 PM](https://user-images.githubusercontent.com/50676988/193635783-1611ce59-1f1d-4c98-8a73-dcc94ca764f9.png)
+    <img src="https://user-images.githubusercontent.com/50676988/193635783-1611ce59-1f1d-4c98-8a73-dcc94ca764f9.png"
 </h1>
 
 
