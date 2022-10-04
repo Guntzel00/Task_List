@@ -40,7 +40,7 @@ The project was developed using the following technologies:
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/guntzel00/Task_List_Challange_01
+    $ git clone https://github.com/Guntzel00/Task_List_Challange_01.git
 
     # Enter in the repository directory
     $ cd Task_List_Challange_01
